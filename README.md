@@ -82,7 +82,7 @@ Loan_Approval_Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/bhanuvi17/Loan_Approval_Prediction.git
+git clone https://github.com/bhanuvi17/Loan_approval_prediction.git
 cd Loan_Approval_Prediction
 ```
 
@@ -111,7 +111,7 @@ Model trained using Random Forest shows solid performance on test set.
 
 ## 🔗 GitHub Repository
 
-[Loan Approval Prediction on GitHub](https://github.com/bhanuvi17/Loan_Approval_Prediction)
+[Loan Approval Prediction on GitHub](https://github.com/bhanuvi17/Loan_approval_prediction.git)
 
 ---
 
