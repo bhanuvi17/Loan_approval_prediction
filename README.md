@@ -115,6 +115,13 @@ Model trained using Random Forest shows solid performance on test set.
 
 ---
 
+## 📸 Screenshots
+
+🔹 **Home Page**  
+![Home Page](https://github.com/bhanuvi17/Loan_approval_prediction/blob/1767495cd3b61668a34ae84b3605de2f1cee7fdc/Screenshot%202025-05-21%20203805.png)
+
+---
+
 ## 🙌 Author
 
 **M Bhanuprakash**
