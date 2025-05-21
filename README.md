@@ -135,7 +135,3 @@ B.E. in Computer Science | Aspiring ML Engineer
 * Add live deployment on Streamlit Cloud / Hugging Face Spaces
 * Integrate SHAP for model interpretability
 * Enable batch upload for bulk predictions
-
----
-
-> 🚨 This is an academic/portfolio project and not intended for real-world financial decisions.
