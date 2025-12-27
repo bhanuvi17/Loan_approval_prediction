@@ -1,16 +1,16 @@
-# 🏦 Loan Approval Prediction
+# Loan Approval Prediction
 
 A machine learning web application that predicts whether a loan will be approved or not based on user inputs such as income, credit history, loan amount, employment status, and more.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is built to assist financial institutions in automating the process of loan approval using historical data and predictive modeling. The model is trained using several classification algorithms, and a Streamlit web interface allows users to interact with the model easily.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Before model building, detailed EDA was performed:
 
@@ -21,21 +21,21 @@ Before model building, detailed EDA was performed:
 
 ---
 
-## 🧠 Models Tried
+## Models Tried
 
 Several classification models were trained and evaluated:
 
 * Logistic Regression
 * Support Vector Classifier (SVC)
 * Decision Tree
-* Random Forest ✅ (Finalized)
+* Random Forest (Finalized)
 * XGBoost
 
-🔍 **Random Forest** was chosen for its superior performance on test data with balanced bias-variance tradeoff.
+ **Random Forest** was chosen for its superior performance on test data with balanced bias-variance tradeoff.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy, Matplotlib, Seaborn
@@ -45,7 +45,7 @@ Several classification models were trained and evaluated:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Loan_Approval_Prediction/
@@ -63,7 +63,7 @@ Loan_Approval_Prediction/
 
 ---
 
-## 🧪 Data Preprocessing & Training
+## Data Preprocessing & Training
 
 * Missing values filled using mode or mean
 * Outliers removed using IQR
@@ -75,9 +75,9 @@ Loan_Approval_Prediction/
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
-### 📦 Setup
+### Setup
 
 Clone the repository:
 
@@ -100,7 +100,7 @@ streamlit run loan_approval_app.py
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 Model trained using Random Forest shows solid performance on test set.
 
@@ -109,24 +109,24 @@ Model trained using Random Forest shows solid performance on test set.
 
 ---
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
 [Loan Approval Prediction on GitHub](https://github.com/bhanuvi17/Loan_approval_prediction.git)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 🔹 **Home Page**  
 ![Home Page](https://github.com/bhanuvi17/Loan_approval_prediction/blob/1767495cd3b61668a34ae84b3605de2f1cee7fdc/Screenshot%202025-05-21%20203805.png)
 
 ---
 
-## 🙌 Author
+## Author
 
 **M Bhanuprakash**
 B.E. in Computer Science | Aspiring ML Engineer
-📧 [bhanuprakash1722004@gmail.com](mailto:bhanuprakash1722004@gmail.com)
+ [bhanuprakash1722004@gmail.com](mailto:bhanuprakash1722004@gmail.com)
 
 ---
 
