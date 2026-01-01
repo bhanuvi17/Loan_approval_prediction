@@ -130,7 +130,7 @@ B.E. in Computer Science | Aspiring ML Engineer
 
 ---
 
-## 💡 Future Work
+## Future Work
 
 * Add live deployment on Streamlit Cloud / Hugging Face Spaces
 * Integrate SHAP for model interpretability
